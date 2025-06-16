@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "59ce1b112ad8532c2a889005"
+  },
+  "init_fuel": 87,
+  "city": "Torino",
+  "walking": {
+    "duration": -1,
+    "distance": -1
+  },
+  "init_address": "Str. del Drosso, 147-155, 10135 Torino TO",
+  "vendor": "car2go",
+  "final_time": 1506681488,
+  "driving": {
+    "duration": -1,
+    "distance": -1
+  },
+  "plate": "020/FF778KW",
+  "final_address": "Aeroporto Caselle 2",
+  "init_time": 1506679562,
+  "vin": "WME4533421K148812",
+  "smartPhoneRequired": true,
+  "init_date": {
+    "$date": "2017-09-29T12:06:02.000Z"
+  },
+  "final_fuel": 78,
+  "exterior": "GOOD",
+  "interior": "GOOD",
+  "final_date": {
+    "$date": "2017-09-29T12:38:08.000Z"
+  },
+  "engineType": "CE",
+  "origin_destination": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        7.61065,
+        45.01646
+      ],
+      [
+        7.6435,
+        45.18843
+      ]
+    ]
+  },
+  "public_transport": {
+    "duration": -1,
+    "distance": -1,
+    "arrival_date": -1,
+    "arrival_time": -1
+  },
+  "distance": 19283
+}]
