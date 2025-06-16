@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "573a13cbf29313caabd7f7f8"
+  },
+  "title": "The Big Short",
+  "year": "2016",
+  "cast": [
+    "Brad Pitt",
+    "Christian Bale",
+    "Selena Gomez",
+    "Karen Gillan"
+  ],
+  "plot": "The men who made millions from a global economic meltdown.",
+  "fullplot": "The men who made millions from a global economic meltdown.",
+  "lastupdated": "2015-09-12 00:20:34.633000000",
+  "type": "movie",
+  "directors": [
+    "Adam McKay"
+  ],
+  "writers": [
+    "Michael Lewis (based on the book by)",
+    "Adam McKay (screenplay)",
+    "Charles Randolph (screenplay)"
+  ],
+  "imdb": {
+    "rating": "",
+    "votes": "",
+    "id": 1596363
+  },
+  "countries": [
+    "USA"
+  ],
+  "genres": [
+    "Drama"
+  ],
+  "num_mflix_comments": 2,
+  "comments": [
+    {
+      "name": "Shae",
+      "email": "sibel_kekilli@gameofthron.es",
+      "movie_id": {
+        "$oid": "573a13cbf29313caabd7f7f8"
+      },
+      "text": "Aspernatur sequi quo molestias voluptate. Nobis sit dignissimos reprehenderit omnis occaecati sequi. Iusto porro voluptatibus omnis tempora nisi vel.",
+      "date": {
+        "$date": "1999-01-08T22:40:48.000Z"
+      },
+      "_id": "573a13cbf29313caabd7f7f8-Shae-915853248.0"
+    },
+    {
+      "name": "Nicholas Webster",
+      "email": "nicholas_webster@fakegmail.com",
+      "movie_id": {
+        "$oid": "573a13cbf29313caabd7f7f8"
+      },
+      "text": "Voluptatem iste nostrum nisi autem deserunt. Quae esse mollitia ipsum sed deleniti. Odit asperiores debitis delectus. Eveniet dolorum illum sapiente quis est doloremque.",
+      "date": {
+        "$date": "1995-05-28T19:51:38.000Z"
+      },
+      "_id": "573a13cbf29313caabd7f7f8-Nicholas Webster-801705098.0"
+    }
+  ]
+}]
