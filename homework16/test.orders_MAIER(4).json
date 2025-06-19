@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6853c74297799e632ce9b914"
+  },
+  "id": 1,
+  "customer": "Olga",
+  "product": "Apple",
+  "amount": 15.55,
+  "city": "Berlin"
+},
+{
+  "_id": {
+    "$oid": "6853c74297799e632ce9b915"
+  },
+  "id": 2,
+  "customer": "Anna",
+  "product": "Apple",
+  "amount": 10.05,
+  "city": "Madrid"
+},
+{
+  "_id": {
+    "$oid": "6853c74297799e632ce9b917"
+  },
+  "id": 4,
+  "customer": "Anton",
+  "product": "Apple",
+  "amount": 20,
+  "city": "Roma"
+}]

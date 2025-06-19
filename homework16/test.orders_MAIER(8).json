@@ -1,0 +1,16 @@
+[{
+  "_id": "Anton",
+  "totalSpent": 20
+},
+{
+  "_id": "Olga",
+  "totalSpent": 33.15
+},
+{
+  "_id": "Petr",
+  "totalSpent": 18.3
+},
+{
+  "_id": "Anna",
+  "totalSpent": 10.05
+}]
