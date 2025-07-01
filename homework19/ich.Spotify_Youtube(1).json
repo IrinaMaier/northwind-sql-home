@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "65b21e65fdad676b321884ce"
+  },
+  "": 750,
+  "Artist": "Timbaland",
+  "Url_spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ",
+  "Track": "Give It To Me",
+  "Album": "Shock Value",
+  "Album_type": "album",
+  "Uri": "spotify:track:0wbDgMuAoy7O7pL3a69uZx",
+  "Danceability": 0.975,
+  "Energy": 0.711,
+  "Key": 8,
+  "Loudness": -3.904,
+  "Speechiness": 0.0632,
+  "Acousticness": 0.168,
+  "Instrumentalness": 0.000552,
+  "Liveness": 0.0799,
+  "Valence": 0.815,
+  "Tempo": 110.621,
+  "Duration_ms": 234027,
+  "Url_youtube": "https://www.youtube.com/watch?v=RgoiSJ23cSc",
+  "Title": "Timbaland - Give It To Me (Official Music Video) ft. Nelly Furtado, Justin Timberlake",
+  "Channel": "TimbalandVEVO",
+  "Views": 133147140,
+  "Likes": 760396,
+  "Comments": 17486,
+  "Description": "Official music video for Timbaland's \"Give It To Me\" ft. Nelly Furtado & Justin Timberlake.\n\nWatch more Timbaland music videos: https://www.youtube.com/watch?v=U5rLz5AZBIA&list=OLAK5uy_nPVy9EUuWUTIBgktKwmJw_O0d3j9q7xeE\n\nFollow Timbaland:\nFacebook: https://www.facebook.com/Timbaland\nTwitter: https://twitter.com/Timbaland\nInstagram: https://www.instagram.com/timbaland\nSoundCloud: https://soundcloud.com/timbaland\nWebsite: https://www.timbalandmusic.com/\n\n#Timbaland #GiveItToMe #NellyFurtado #JustinTimberlake\n\nMusic video by Timbaland performing Give It To Me. (C) 2007 Blackground Records/Interscope Records",
+  "Licensed": true,
+  "official_video": true,
+  "Stream": 165286007
+}]

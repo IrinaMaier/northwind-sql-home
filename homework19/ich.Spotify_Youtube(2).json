@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "65b21e65fdad676b321881e0"
+  },
+  "": 0,
+  "Artist": "Gorillaz",
+  "Url_spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ",
+  "Track": "Feel Good Inc.",
+  "Album": "Demon Days",
+  "Album_type": "album",
+  "Uri": "spotify:track:0d28khcov6AiegSCpG5TuT",
+  "Danceability": 0.818,
+  "Energy": 0.705,
+  "Key": 6,
+  "Loudness": -6.679,
+  "Speechiness": 0.177,
+  "Acousticness": 0.00836,
+  "Instrumentalness": 0.00233,
+  "Liveness": 0.613,
+  "Valence": 0.772,
+  "Tempo": 138.559,
+  "Duration_ms": 222640,
+  "Url_youtube": "https://www.youtube.com/watch?v=HyHNuVaZJ-k",
+  "Title": "Gorillaz - Feel Good Inc. (Official Video)",
+  "Channel": "Gorillaz",
+  "Views": 693555221,
+  "Likes": 6220896,
+  "Comments": 169907,
+  "Description": "Official HD Video for Gorillaz' fantastic track Feel Good Inc.\n\nFollow Gorillaz online:\nhttp://gorillaz.com\nhttp://facebook.com/Gorillaz\nhttp://twitter.com/GorillazBand\nhttp://instagram/Gorillaz\n\nFor more information on Gorillaz don't forget to check out the official website at http://www.gorillaz.com",
+  "Licensed": true,
+  "official_video": true,
+  "Stream": 1040234854
+}]

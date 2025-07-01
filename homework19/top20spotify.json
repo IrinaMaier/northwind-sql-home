@@ -1,0 +1,160 @@
+[{
+  "Artist": "The Weeknd",
+  "Track": "Blinding Lights",
+  "Stream": {
+    "$numberLong": "3386520288"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Ed Sheeran",
+  "Track": "Shape of You",
+  "Stream": {
+    "$numberLong": "3362005201"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Lewis Capaldi",
+  "Track": "Someone You Loved",
+  "Stream": {
+    "$numberLong": "2634013335"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Post Malone",
+  "Track": "rockstar (feat. 21 Savage)",
+  "Stream": {
+    "$numberLong": "2594926619"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Swae Lee",
+  "Track": "Sunflower - Spider-Man: Into the Spider-Verse",
+  "Stream": {
+    "$numberLong": "2538329799"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Post Malone",
+  "Track": "Sunflower - Spider-Man: Into the Spider-Verse",
+  "Stream": {
+    "$numberLong": "2538329799"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Drake",
+  "Track": "One Dance",
+  "Stream": {
+    "$numberLong": "2522431995"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Halsey",
+  "Track": "Closer",
+  "Stream": {
+    "$numberLong": "2456205158"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "The Chainsmokers",
+  "Track": "Closer",
+  "Stream": {
+    "$numberLong": "2456205158"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Imagine Dragons",
+  "Track": "Believer",
+  "Stream": {
+    "$numberLong": "2369272335"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "The Kid LAROI",
+  "Track": "STAY (with Justin Bieber)",
+  "Stream": {
+    "$numberLong": "2365777505"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Justin Bieber",
+  "Track": "STAY (with Justin Bieber)",
+  "Stream": {
+    "$numberLong": "2365777505"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Camila Cabello",
+  "Track": "Señorita",
+  "Stream": {
+    "$numberLong": "2336219850"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Shawn Mendes",
+  "Track": "Señorita",
+  "Stream": {
+    "$numberLong": "2336219850"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Ed Sheeran",
+  "Track": "Perfect",
+  "Stream": {
+    "$numberLong": "2312689776"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Glass Animals",
+  "Track": "Heat Waves",
+  "Stream": {
+    "$numberLong": "2261464473"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "James Arthur",
+  "Track": "Say You Won't Let Go",
+  "Stream": {
+    "$numberLong": "2229658373"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Billie Eilish",
+  "Track": "bad guy",
+  "Stream": {
+    "$numberLong": "2203014126"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "The Weeknd",
+  "Track": "Starboy",
+  "Stream": {
+    "$numberLong": "2180812000"
+  },
+  "source": "spotify"
+},
+{
+  "Artist": "Ed Sheeran",
+  "Track": "Thinking out Loud",
+  "Stream": {
+    "$numberLong": "2154334378"
+  },
+  "source": "spotify"
+}]
